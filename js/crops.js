@@ -4,16 +4,16 @@
 
 // Crop List
 var crops = {
-  "amaranth": {
-    "name": "Amaranth",
-    "url": "http://stardewvalleywiki.com/Amaranth",
-    "img": "amaranth.png",
+  "wheat": {
+    "name": "Wheat",
+    "url": "http://stardewvalleywiki.com/Wheat",
+    "img": "wheat.png",
     "seeds": {
-      "pierre": 70,
-      "joja": 87,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 70,
+      "Tom": 87,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 7,
@@ -27,16 +27,16 @@ var crops = {
       "kegType": "Juice"
     }
   },
-  "grape": {
-    "name": "Grape",
-    "url": "http://stardewvalleywiki.com/Grape",
-    "img": "grape.png",
+  "corn": {
+    "name": "Corn",
+    "url": "http://stardewvalleywiki.com/Corn",
+    "img": "corn.png",
     "seeds": {
-      "pierre": 60,
-      "joja": 75,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 60,
+      "Tom": 75,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 10,
@@ -50,16 +50,16 @@ var crops = {
       "kegType": "Wine"
     }
   },
-  "hops": {
-    "name": "Hops",
-    "url": "http://stardewvalleywiki.com/Hops",
-    "img": "hops.png",
+  "cabbage": {
+    "name": "Cabbage",
+    "url": "http://stardewvalleywiki.com/Cabbage",
+    "img": "cabbage.png",
     "seeds": {
-      "pierre": 60,
-      "joja": 75,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 60,
+      "Tom": 75,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 11,
@@ -79,11 +79,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Pineapple",
     "img": "pineapple.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 400,
-      "specialLoc": "Island Trader",
-      "specialUrl": "http://stardewvalleywiki.com/Island_Trader"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 400,
+      "TomLoc": "Island Trader",
+      "TomUrl": "http://stardewvalleywiki.com/Island_Trader"
     },
     "growth": {
       "initial": 14,
@@ -102,11 +102,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Sweet_Gem_Berry",
     "img": "sweetgemberry.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 1000,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 1000,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 24,
@@ -123,11 +123,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Tea_Leaves",
     "img": "tealeaves.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 2500,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 2500,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 20,
@@ -147,11 +147,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Fairy_Rose",
     "img": "fairyrose.png",
     "seeds": {
-      "pierre": 200,
-      "joja": 250,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 200,
+      "Tom": 250,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 12,
@@ -168,11 +168,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Tulip",
     "img": "tulip.png",
     "seeds": {
-      "pierre": 20,
-      "joja": 25,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 20,
+      "Tom": 25,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 6,
@@ -189,11 +189,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Blue_Jazz",
     "img": "bluejazz.png",
     "seeds": {
-      "pierre": 30,
-      "joja": 37,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 30,
+      "Tom": 37,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 7,
@@ -210,11 +210,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Sunflower",
     "img": "sunflower.png",
     "seeds": {
-      "pierre": 200,
-      "joja": 125,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 200,
+      "Tom": 125,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 8,
@@ -231,11 +231,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Coffee_Bean",
     "img": "coffeebean.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 2500,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 2500,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 10,
@@ -254,11 +254,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Poppy",
     "img": "poppy.png",
     "seeds": {
-      "pierre": 100,
-      "joja": 125,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 100,
+      "Tom": 125,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 7,
@@ -275,11 +275,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Summer_Spangle",
     "img": "summerspangle.png",
     "seeds": {
-      "pierre": 50,
-      "joja": 62,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 50,
+      "Tom": 62,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 8,
@@ -296,11 +296,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Parsnip",
     "img": "parsnip.png",
     "seeds": {
-      "pierre": 20,
-      "joja": 25,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 20,
+      "Tom": 25,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 4,
@@ -319,11 +319,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Green_Bean",
     "img": "greenbean.png",
     "seeds": {
-      "pierre": 60,
-      "joja": 75,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 60,
+      "Tom": 75,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 10,
@@ -342,11 +342,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Cauliflower",
     "img": "cauliflower.png",
     "seeds": {
-      "pierre": 80,
-      "joja": 100,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 80,
+      "Tom": 100,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 12,
@@ -365,11 +365,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Potato",
     "img": "potato.png",
     "seeds": {
-      "pierre": 50,
-      "joja": 62,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 50,
+      "Tom": 62,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 6,
@@ -388,11 +388,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Garlic",
     "img": "garlic.png",
     "seeds": {
-      "pierre": 40,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 40,
+      "Tom": 0,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 4,
@@ -411,11 +411,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Taro_Root",
     "img": "taroroot.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 24,
-      "specialLoc": "Island Trader",
-      "specialUrl": "http://stardewvalleywiki.com/Island_Trader"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 24,
+      "TomLoc": "Island Trader",
+      "TomUrl": "http://stardewvalleywiki.com/Island_Trader"
     },
     "growth": {
       "initial": 10,
@@ -434,11 +434,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Kale",
     "img": "kale.png",
     "seeds": {
-      "pierre": 70,
-      "joja": 87,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 70,
+      "Tom": 87,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 6,
@@ -457,11 +457,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Unmilled_Rice",
     "img": "unmilledrice.png",
     "seeds": {
-      "pierre": 40,
-      "joja": 0,
-      "special": 1000,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 40,
+      "Tom": 0,
+      "Tom": 1000,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 8,
@@ -480,11 +480,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Rhubarb",
     "img": "rhubarb.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 100,
-      "specialLoc": "Oasis",
-      "specialUrl": "http://stardewvalleywiki.com/Oasis"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 100,
+      "TomLoc": "Oasis",
+      "TomUrl": "http://stardewvalleywiki.com/Oasis"
     },
     "growth": {
       "initial": 13,
@@ -503,11 +503,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Melon",
     "img": "melon.png",
     "seeds": {
-      "pierre": 80,
-      "joja": 100,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 80,
+      "Tom": 100,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 12,
@@ -526,11 +526,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Tomato",
     "img": "tomato.png",
     "seeds": {
-      "pierre": 50,
-      "joja": 62,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 50,
+      "Tom": 62,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 11,
@@ -549,11 +549,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Blueberry",
     "img": "blueberry.png",
     "seeds": {
-      "pierre": 80,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 80,
+      "Tom": 0,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 13,
@@ -572,11 +572,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Hot_Pepper",
     "img": "hotpepper.png",
     "seeds": {
-      "pierre": 40,
-      "joja": 50,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 40,
+      "Tom": 50,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 5,
@@ -595,11 +595,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Wheat",
     "img": "wheat.png",
     "seeds": {
-      "pierre": 10,
-      "joja": 12,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 10,
+      "Tom": 12,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 4,
@@ -619,11 +619,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Radish",
     "img": "radish.png",
     "seeds": {
-      "pierre": 40,
-      "joja": 50,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 40,
+      "Tom": 50,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 6,
@@ -642,11 +642,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Red_Cabbage",
     "img": "redcabbage.png",
     "seeds": {
-      "pierre": 100,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 100,
+      "Tom": 0,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 9,
@@ -665,11 +665,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Starfruit",
     "img": "starfruit.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 400,
-      "specialLoc": "Oasis",
-      "specialUrl": "http://stardewvalleywiki.com/Oasis"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 400,
+      "TomLoc": "Oasis",
+      "TomUrl": "http://stardewvalleywiki.com/Oasis"
     },
     "growth": {
       "initial": 13,
@@ -688,11 +688,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Corn",
     "img": "corn.png",
     "seeds": {
-      "pierre": 150,
-      "joja": 187,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 150,
+      "Tom": 187,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 14,
@@ -711,11 +711,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Eggplant",
     "img": "eggplant.png",
     "seeds": {
-      "pierre": 20,
-      "joja": 25,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 20,
+      "Tom": 25,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 5,
@@ -734,11 +734,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Artichoke",
     "img": "artichoke.png",
     "seeds": {
-      "pierre": 30,
-      "joja": 0,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 30,
+      "Tom": 0,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 8,
@@ -757,11 +757,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Pumpkin",
     "img": "pumpkin.png",
     "seeds": {
-      "pierre": 100,
-      "joja": 125,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 100,
+      "Tom": 125,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 13,
@@ -780,11 +780,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Bok_Choy",
     "img": "bokchoy.png",
     "seeds": {
-      "pierre": 50,
-      "joja": 62,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 50,
+      "Tom": 62,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 4,
@@ -803,11 +803,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Yam",
     "img": "yam.png",
     "seeds": {
-      "pierre": 60,
-      "joja": 75,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 60,
+      "Tom": 75,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 10,
@@ -826,11 +826,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Cranberries",
     "img": "cranberries.png",
     "seeds": {
-      "pierre": 240,
-      "joja": 300,
-      "special": 0,
-      "specialLoc": "",
-      "specialUrl": ""
+      "Tom": 240,
+      "Tom": 300,
+      "Tom": 0,
+      "TomLoc": "",
+      "TomUrl": ""
     },
     "growth": {
       "initial": 7,
@@ -849,11 +849,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Beet",
     "img": "beet.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 20,
-      "specialLoc": "Oasis",
-      "specialUrl": "http://stardewvalleywiki.com/Oasis"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 20,
+      "TomLoc": "Oasis",
+      "TomUrl": "http://stardewvalleywiki.com/Oasis"
     },
     "growth": {
       "initial": 6,
@@ -872,11 +872,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Ancient_Fruit",
     "img": "ancientfruit.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 450,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 450,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 28,
@@ -895,11 +895,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Cactus_Fruit",
     "img": "cactusfruit.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 150,
-      "specialLoc": "Oasis",
-      "specialUrl": "http://stardewvalleywiki.com/Oasis"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 150,
+      "TomLoc": "Oasis",
+      "TomUrl": "http://stardewvalleywiki.com/Oasis"
     },
     "growth": {
       "initial": 12,
@@ -918,11 +918,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Strawberry",
     "img": "strawberry.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 100,
-      "specialLoc": "Egg Festival",
-      "specialUrl": "http://stardewvalleywiki.com/Egg_Festival"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 100,
+      "TomLoc": "Egg Festival",
+      "TomUrl": "http://stardewvalleywiki.com/Egg_Festival"
     },
     "growth": {
       "initial": 8,
@@ -941,11 +941,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Spring_Seeds",
     "img": "springseeds.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 1000,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 1000,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 7,
@@ -964,11 +964,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Summer_Seeds",
     "img": "summerseeds.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 1000,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 1000,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 7,
@@ -977,7 +977,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      // (Spice Berry + Grape + Sweet Pea) / 3
+      // (Spice Berry + Corn + Sweet Pea) / 3
       "price": (80 + 80 + 50) / 3,
       "jarType": "Jelly",
       "kegType": "Wine"
@@ -989,11 +989,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Fall_Seeds",
     "img": "fallseeds.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 1000,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 1000,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 7,
@@ -1014,11 +1014,11 @@ var crops = {
     "url": "http://stardewvalleywiki.com/Winter_Seeds",
     "img": "winterseeds.png",
     "seeds": {
-      "pierre": 0,
-      "joja": 0,
-      "special": 1000,
-      "specialLoc": "Travelling Cart",
-      "specialUrl": "http://stardewvalleywiki.com/Travelling_Cart"
+      "Tom": 0,
+      "Tom": 0,
+      "Tom": 1000,
+      "TomLoc": "Travelling Cart",
+      "TomUrl": "http://stardewvalleywiki.com/Travelling_Cart"
     },
     "growth": {
       "initial": 7,
